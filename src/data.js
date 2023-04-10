@@ -1,17 +1,17 @@
 const reviews = [
   {
     id: 1,
-    name: "Pranay Gupta",
-    job: "Software Engineer",
-    image: "https://i.postimg.cc/xjK1KXXB/Pranay-Gupta-f3c530b7630ba8efb2ab.jpg",
-    text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
-  },
-  {
-    id: 2,
     name: "Abir Pal",
     job: "Graphic Designer",
     image: "https://i.postimg.cc/c404TdYC/Abir-Pal-574a09ad7cb325853b29.jpg",
     text: "I have been working with this company for several years now, and I have always been impressed with their creativity and attention to detail. They are true professionals who take pride in their work and always go above and beyond to deliver exceptional results.",
+  },
+  {
+    id: 2,
+    name: "Shashi Kiran",
+    job: "Software Engineer",
+    image: "https://i.postimg.cc/dtsTpS33/Whats-App-Image-2023-04-10-at-1-28-52-PM1.jpg",
+    text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
   },
   {
     id: 3,
